@@ -13,6 +13,11 @@ body {
     background: linear-gradient(to top left, #FED600, #86792b);
 }
 
+.planet1 p {
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
+
 .planet2 {
     width: 200px;
     height: 200px;
